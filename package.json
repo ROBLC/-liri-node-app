@@ -1,0 +1,25 @@
+{
+  "name": "Liri-Node-App",
+  "version": "1.0.0",
+  "description": "Liri Bot App",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROBLC/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROBLC/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/ROBLC/Liri-Node-App#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "moment": "^2.22.2",
+    "request": "^2.88.0"
+  }
+}
