@@ -1,0 +1,27 @@
+Command: concert-this
+User argument: wisin y yandel
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: spotify-this-song
+User argument: taki taki
+-------------- 
+Command: spotify-this-song
+User argument: baba yetu
+-------------- 
+Command: movie-this
+User argument: jurassic park
+-------------- 
+Command: movie-this
+User argument: indiana jones and the temple of doom
+-------------- 
+Command: do-what
+User argument: it says
+-------------- 
+Command: do-what-it-says
+User argument: 
+-------------- 
+Command: movie-this
+User argument: Indiana+Jones+and+the+Last+Crusade
+-------------- 
