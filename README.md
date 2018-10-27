@@ -1,2 +1,24 @@
-# -liri-node-app
-Liri Bot App
+# Liri Bot App
+ Cool Node app that lets you search a song on spotify, a movie and get concert dates from your favorite artists!!!
+ ## How to Use
+ You have to use some basic commands 
+ ### Commands:
+ * concert-this 
+    * Searches for upcoming events for the artist you search
+ * spotify-this-song
+    * Gives you up to 5 songs based on your search
+ * movie-this
+    * Returns the movie you searched
+* do-what-it-says 
+    * Reads the random.txt file and runs what ever is in it!!
+
+#### Examples
+* node liri concert-this cardi b
+
+* node liri spotify-this-song in my feelings
+
+* node liri movie-this toy story
+
+* node liri do-what-it-says
+
+### HAVE FUN!!!

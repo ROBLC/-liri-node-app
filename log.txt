@@ -25,3 +25,66 @@ User argument:
 Command: movie-this
 User argument: Indiana+Jones+and+the+Last+Crusade
 -------------- 
+Command: spotify-this-song
+User argument: thinking out loud
+-------------- 
+Command: spotify-this-song
+User argument: thinking out loud
+-------------- 
+Command: concert-this
+User argument: Shakira
+-------------- 
+Command: concert-this
+User argument: la arrolladora banda el limon
+-------------- 
+Command: concert-this
+User argument: Shakira
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: cardi
+User argument: b
+-------------- 
+Command: cardi
+User argument: b
+-------------- 
+Command: cardi
+User argument: b
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: hello
+User argument: 
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: concert-this
+User argument: nicky jam
+-------------- 
+Command: concert-this
+User argument: cardi b
+-------------- 
+Command: spotify-this-song
+User argument: thinking out loud
+-------------- 
+Command: spotify-this-song
+User argument: taki taki
+-------------- 
+Command: movie-this
+User argument: jurassic park
+-------------- 
+Command: movie-this
+User argument: indiana jones and the temple of doom
+-------------- 
+Command: do-what-it-says
+User argument: 
+-------------- 
+Command: movie-this
+User argument: Indiana+Jones+and+the+Last+Crusade
+-------------- 
