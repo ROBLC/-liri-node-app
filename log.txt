@@ -88,3 +88,42 @@ User argument:
 Command: movie-this
 User argument: Indiana+Jones+and+the+Last+Crusade
 -------------- 
+Command: concert-this
+User argument: 
+-------------- 
+Command: concert-this
+User argument: bruno+mars
+-------------- 
+Command: concert-this
+User argument: bruno mars
+-------------- 
+Command: spotify-this-song
+User argument: taki taki
+-------------- 
+Command: spotify-this-song
+User argument: i will always love you
+-------------- 
+Command: movie-this
+User argument: blade runner
+-------------- 
+Command: movie-this
+User argument: shrek
+-------------- 
+Command: do-what-it-says
+User argument: 
+-------------- 
+Command: spotify-this-song
+User argument: "I Want it That Way"
+-------------- 
+Command: do-what-it-says
+User argument: 
+-------------- 
+Command: movie-this
+User argument: "I Want it That Way"
+-------------- 
+Command: do-what-it-says
+User argument: 
+-------------- 
+Command: movie-this
+User argument: "Indiana Jones and the last crusade"
+-------------- 

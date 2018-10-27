@@ -1,5 +1,6 @@
 //pull all the requires neeeded and set global variables
 require("dotenv").config();
+var fs = require("fs");
 var Spotify = require('node-spotify-api');
 var moment = require("moment");
 var keys = require("./keys.js");
@@ -14,10 +15,12 @@ for (var i = 3; i < userInput.length; i++) {
     if (i > 3 && i < userInput.length) {
         //when various words exist in input pushes each word to array and makes it readable for queryurl 
         userArgs = userArgs + "+" + userInput[i];
+        userArgs2 = userArgs2 + " " + userInput[i];
     }
     else {
         //pushes first word after command to array
         userArgs += userInput[i];
+        userArgs2 += userInput[i];
     }
 }
 //console.log command and user search 
